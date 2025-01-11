@@ -12,3 +12,5 @@ Dalam repository ini, Anda akan menemukan implementasi sirkuit kuantum dan simul
 ## Instalasi
 
 Untuk mulai menggunakan kode dalam repository ini, Anda perlu menginstal beberapa dependensi. Pastikan Anda sudah menginstal Python di sistem Anda, lalu jalankan perintah berikut untuk menginstal Qiskit dan Qiskit-Aer.
+
+## Library
